@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Jéssica Fuentes 👩‍💻</h1>
 
 <p align="center">
-  <i>💻 Desenvolvedora Front-end em transição de carreira, apaixonada por tecnologia e focada em aprendizado contínuo, determinada a construir uma trajetória sólida na área. 🚀</i>
+  💻<i>Desenvolvedora Front-end em transição de carreira, apaixonada por tecnologia e focada em aprendizado contínuo, determinada a construir uma trajetória sólida na área.</i>🚀
 </p>
 
 ---
