@@ -6,13 +6,20 @@
 
 ---
 
-### 👩‍🏫 Sobre mim
+### 👩‍💻 Sobre mim
 
-Sou uma profissional em transição de carreira, migrando da área de Comércio Exterior para a Tecnologia da Informação. Atualmente curso **Análise e Desenvolvimento de Sistemas** (conclusão prevista para o primeiro semestre de 2026) e estou focada no **desenvolvimento Front-end**.
+Atualmente em transição de carreira da área de **Comércio Exterior** para a **Tecnologia da Informação**, estou em formação no curso de **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para o primeiro semestre de 2026. Meu principal foco é o **desenvolvimento Front-end**, criando interfaces modernas, acessíveis e centradas na experiência do usuário.
 
-Minha experiência anterior me proporcionou competências como **organização, trabalho em equipe, atenção aos detalhes e pensamento analítico**, que agora aplico na criação de interfaces modernas, funcionais e com foco no usuário.
+Ao longo da minha trajetória profissional, desenvolvi competências como:
+- **Resolução de problemas**
+- **Pensamento analítico**
+- **Atenção aos detalhes**
+- **Organização**
+- **Colaboração em equipe**
 
-> Estou em busca de oportunidades que promovam crescimento profissional e me permitam colaborar em projetos reais com impacto e inovação.
+Essas habilidades, somadas à minha paixão por tecnologia e aprendizado contínuo, têm me impulsionado a construir projetos práticos com foco em desenvolvimento web. Tenho me dedicado a evoluir em **HTML5, CSS3, JavaScript, React, TypeScript e Tailwind**, sempre buscando as melhores práticas de desenvolvimento e design responsivo.
+
+Acredito no poder da tecnologia como agente transformador, e estou em busca de oportunidades onde eu possa aplicar meus conhecimentos em projetos reais, que tragam impacto positivo, inovação e crescimento profissional.
 
 ---
 
@@ -46,13 +53,9 @@ Minha experiência anterior me proporcionou competências como **organização, 
 
 ---
 
-### 📌 Projetos em destaque
+### 📬 Entre em contato
 
-- Em breve, meus principais projetos estarão organizados aqui com links, imagens e descrições! 🚧
-
----
-
-### 📫 Vamos conversar?
+Fico à disposição para conexões profissionais, oportunidades na área de Front-end ou troca de conhecimentos na área de tecnologia.
 
 - 💻 [GitHub](https://github.com/Jessica-Fuentess)
 - 👔 [LinkedIn](https://www.linkedin.com/in/jéssica-fuentes/)
