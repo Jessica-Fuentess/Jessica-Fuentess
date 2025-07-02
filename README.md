@@ -10,12 +10,7 @@
 
 Atualmente em transição de carreira da área de **Comércio Exterior** para a **Tecnologia da Informação**, estou em formação no curso de **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para o primeiro semestre de 2026. Meu principal foco é o **desenvolvimento Front-end**, criando interfaces modernas, acessíveis e centradas na experiência do usuário.
 
-Ao longo da minha trajetória profissional, desenvolvi competências como:
-- **Resolução de problemas**
-- **Pensamento analítico**
-- **Atenção aos detalhes**
-- **Organização**
-- **Colaboração em equipe**
+> Ao longo da minha trajetória profissional, desenvolvi uma forte capacidade analítica 🧠, atenção rigorosa aos detalhes 🔍 e habilidades organizacionais 📋 que me permitem gerenciar tarefas complexas com eficiência. Além disso, valorizo o trabalho colaborativo 🤝 e a comunicação clara 🗣️, essenciais para o sucesso em projetos em equipe e para a resolução eficaz de desafios.
 
 Essas habilidades, somadas à minha paixão por tecnologia e aprendizado contínuo, têm me impulsionado a construir projetos práticos com foco em desenvolvimento web. Tenho me dedicado a evoluir em **HTML5, CSS3, JavaScript, React, TypeScript e Tailwind**, sempre buscando as melhores práticas de desenvolvimento e design responsivo.
 
@@ -45,11 +40,11 @@ Acredito no poder da tecnologia como agente transformador, e estou em busca de o
 
 ### 💡 Soft Skills
 
-- Resolução de problemas
-- Organização e gestão do tempo
-- Pensamento analítico
-- Trabalho em equipe
-- Adaptabilidade e aprendizado contínuo
+- Pensamento analítico e capacidade de resolução de problemas complexos  
+- Organização, disciplina e gestão eficiente do tempo  
+- Trabalho colaborativo com comunicação clara e empatia  
+- Adaptabilidade e aprendizado contínuo, sempre aberto a novos desafios  
+- Proatividade e foco em soluções inovadoras  
 
 ---
 
