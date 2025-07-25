@@ -44,7 +44,7 @@ Acredito no poder da tecnologia como agente transformador, e estou em busca de o
 - Organização, disciplina e gestão eficiente do tempo  
 - Trabalho colaborativo com comunicação clara e empatia  
 - Adaptabilidade e aprendizado contínuo, sempre aberto a novos desafios  
-- Proatividade e foco em soluções inovadoras.
+- Proatividade e foco em soluções inovadoras
 
 ---
 
