@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Atualmente em transição de carreira da área de **Comércio Exterior** para a **Tecnologia da Informação**, estou em formação no curso de **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para o segundo semestre de 2025. Meu principal foco é o **desenvolvimento Front-end**, criando interfaces modernas, acessíveis e centradas na experiência do usuário.
+Atualmente em transição de carreira da área de **Comércio Exterior** para a **Tecnologia da Informação**, estou em formação no curso de **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para o segundo semestre de 2025.. Meu principal foco é o **desenvolvimento Front-end**, criando interfaces modernas, acessíveis e centradas na experiência do usuário.
 
 > Ao longo da minha trajetória profissional, desenvolvi uma forte capacidade analítica 🧠, atenção rigorosa aos detalhes 🔍 e habilidades organizacionais 📋 que me permitem gerenciar tarefas complexas com eficiência. Além disso, valorizo o trabalho colaborativo 🤝 e a comunicação clara 🗣️, essenciais para o sucesso em projetos em equipe e para a resolução eficaz de desafios.
 
