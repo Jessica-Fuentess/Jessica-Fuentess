@@ -4,7 +4,7 @@
   💻 <i>Desenvolvedora Front-end em transição de carreira, apaixonada por tecnologia e focada em aprendizado contínuo, determinada a construir uma trajetória sólida na área.</i> 🚀
 </p>
 
----
+----
 
 ### 👩‍💻 Sobre mim
 
