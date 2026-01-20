@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Jéssica Fuentes 👩‍💻📊</h1>
 
 <p align="center">
-  📊 <i>Analista de Dados em transição de carreira, focada em transformar dados em inteligência estratégica e apaixonada por tecnologia.</i> 🚀
+  📊 <i>Analista de Dados com forte background em negócio, focada em transformar dados em inteligência estratégica e apaixonada por tecnologia.</i> 🚀
 </p>
 
 ---
@@ -13,6 +13,8 @@ Profissional com mais de <strong>15 anos de trajetória consolidada em Comércio
 > Minha bagagem corporativa proporcionou uma <strong>visão analítica consistente</strong>, alto nível de organização, atenção aos detalhes e elevada capacidade de resolução de problemas, além de experiência em contextos de alta criticidade operacional. Hoje, aplico essas competências na <strong>estruturação de dados</strong>, criação de <strong>dashboards de BI</strong>, definição de <strong>indicadores (KPIs)</strong> e <strong>automação de processos</strong>, trabalhando com <strong>dados reais</strong> para apoiar decisões operacionais, financeiras e estratégicas.
 
 Possuo atuação prática com <strong>Excel Avançado, Power BI, SQL e Python</strong>, realizando tratamento, organização e análise de dados, construção de relatórios gerenciais e dashboards, além da automação de rotinas para aumentar a eficiência, a confiabilidade e a qualidade das informações. Complemento meu perfil técnico com uma base em <strong>tecnologias Web</strong>, contribuindo para uma visão integrada entre dados, sistemas e processos.
+
+Atualmente desenvolvo projetos práticos em **Análise de Dados, Business Intelligence, Automação com Python, Machine Learning e IA aplicada**, consolidando um portfólio voltado a soluções reais de negócio.
 
 Acredito no uso estratégico da tecnologia e dos dados como pilares para otimização de processos e geração de valor ao negócio, e busco oportunidades para atuar em projetos reais nas áreas de <strong>Dados, BI e Banco de Dados</strong>.
 
@@ -35,6 +37,39 @@ Acredito no uso estratégico da tecnologia e dos dados como pilares para otimiza
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Infraestrutura & Versão** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+### 🚀 Tecnologias e Ferramentas
+
+**📊 Dados, Analytics & BI**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+
+**🤖 Data Science & Machine Learning**  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)
+![Modelagem de Dados](https://img.shields.io/badge/-Modelagem%20de%20Dados-4B8BBE?style=flat)
+
+**⚙️ Automação & Integrações**  
+![Python Automation](https://img.shields.io/badge/-Automação%20com%20Python-3776AB?style=flat&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/-Integração%20com%20APIs-000000?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**🌐 Desenvolvimento Web & Apps**  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**🧱 Infraestrutura & Versionamento**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
