@@ -16,15 +16,15 @@ Possuo atuação prática com <strong>Excel Avançado, Power BI, SQL e Python</s
 
 Atualmente desenvolvo projetos práticos em **Análise de Dados, Business Intelligence, Automação com Python, Machine Learning e IA aplicada**, consolidando um portfólio voltado a soluções reais de negócio.
 
-Acredito no uso estratégico da tecnologia e dos dados como pilares para otimização de processos e geração de valor ao negócio, e busco oportunidades para atuar em projetos reais nas áreas de <strong>Dados, BI e Banco de Dados</strong>.
+Acredito no uso estratégico da tecnologia e dos dados como pilares para otimização de processos e geração de valor ao negócio, e busco atuar em projetos orientados a dados nas áreas de Dados, BI, Engenharia ou Ciência de Dados, contribuindo com visão analítica, técnica e estratégica para geração de valor ao negócio.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas 💡
 
 **Dados & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 
