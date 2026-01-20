@@ -39,6 +39,15 @@ Acredito no uso estratégico da tecnologia e dos dados como pilares para otimiza
 **Infraestrutura & Versão** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+**Demais Conhecimentos**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Automação com Python](https://img.shields.io/badge/-Automação%20com%20Python-3776AB?style=flat&logo=python&logoColor=white)
+![Modelagem de Dados](https://img.shields.io/badge/-Modelagem%20de%20Dados-4B8BBE?style=flat)
+![Integração com APIs](https://img.shields.io/badge/-Integração%20com%20APIs-000000?style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 ---
 
 ### 💡 Soft Skills
