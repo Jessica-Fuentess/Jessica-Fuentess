@@ -3,7 +3,6 @@
 <p align="center">
   📊 <i>Analista de Dados com background em negócio, focada em transformar dados em inteligência estratégica e apaixonada por tecnologia.</i> 🚀
 </p>
-
 ---
 
 ### 👩‍💻 Sobre mim
