@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Jéssica Fuentes 👩‍💻📊</h1>
 
 <p align="center">
-  📊 <i>Analista de Dados com background em negócio, focada em transformar dados em inteligência estratégica e apaixonada por tecnolo</i> 🚀
+  📊 <i>Data Analyst | SQL • Python • Excel • Product & Business Analytics</i> 🚀
 </p>
 
 ---
