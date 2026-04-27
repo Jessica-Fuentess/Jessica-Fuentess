@@ -14,7 +14,7 @@ Profissional com mais de <strong>15 anos de trajetória consolidada em Comércio
 
 Possuo atuação prática com <strong>Excel Avançado, Power BI, SQL e Python</strong>, realizando tratamento, organização e análise de dados, construção de relatórios gerenciais e dashboards, além da automação de rotinas para aumentar a eficiência, a confiabilidade e a qualidade das informações. Complemento meu perfil técnico com uma base em <strong>tecnologias Web</strong>, contribuindo para uma visão integrada entre dados, sistemas e processos.
 
-Atualmente desenvolvo projetos práticos em **Análise de Dados, Business Intelligence, Automação com Python, Machine Learning e IA aplicada**, consolidando um portfólio voltado a soluções reais de negócio.
+Atualmente desenvolvo projetos práticos em **Análise de Dados, Business Intelligence, Automação com Python, Machine Learning e IA aplicada**, consolidando um portfólio voltado a soluções reais de negócio..
 
 Acredito no uso estratégico da tecnologia e dos dados como pilares para otimização de processos e geração de valor ao negócio, e busco atuar em projetos orientados a dados nas áreas de Dados, BI, Engenharia ou Ciência de Dados, contribuindo com visão analítica, técnica e estratégica para geração de valor ao negócio.
 
