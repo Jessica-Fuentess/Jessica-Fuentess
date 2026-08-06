@@ -8,15 +8,15 @@
 
 ### 👩‍💻 Sobre mim
 
-Profissional com mais de <strong>15 anos de trajetória consolidada em Comércio Exterior</strong>, atuando em ambientes corporativos complexos, com grande volume de informações, prazos críticos e forte orientação a processos e resultados. Atualmente em transição para a área de <strong>Dados e Tecnologia da Informação</strong>, curso <strong>Análise e Desenvolvimento de Sistemas</strong> (conclusão em 2026), unindo visão estratégica de negócio à capacidade técnica de <strong>manipular, organizar e analisar dados</strong> para suporte à tomada de decisão.
+Sou graduada em **Análise e Desenvolvimento de Sistemas** e possuo mais de **15 anos de experiência** nas áreas de Comércio Exterior, Logística e Operações, atuando em empresas multinacionais e em ambientes corporativos com grande volume de informações, processos complexos e foco em resultados.
 
-> Minha bagagem corporativa proporcionou uma <strong>visão analítica consistente</strong>, alto nível de organização, atenção aos detalhes e elevada capacidade de resolução de problemas, além de experiência em contextos de alta criticidade operacional. Hoje, aplico essas competências na <strong>estruturação de dados</strong>, criação de <strong>dashboards de BI</strong>, definição de <strong>indicadores (KPIs)</strong> e <strong>automação de processos</strong>, trabalhando com <strong>dados reais</strong> para apoiar decisões operacionais, financeiras e estratégicas.
+Ao longo da minha carreira, desenvolvi forte capacidade analítica por meio da **extração, tratamento, consolidação e análise de dados**, apoiando decisões estratégicas, melhoria de processos e aumento da eficiência operacional.
 
-Possuo atuação prática com <strong>Excel Avançado, Power BI, SQL e Python</strong>, realizando tratamento, organização e análise de dados, construção de relatórios gerenciais e dashboards, além da automação de rotinas para aumentar a eficiência, a confiabilidade e a qualidade das informações. Complemento meu perfil técnico com uma base em <strong>tecnologias Web</strong>, contribuindo para uma visão integrada entre dados, sistemas e processos.
+Tenho experiência prática no desenvolvimento de **dashboards em Power BI**, relatórios gerenciais, indicadores (KPIs), processos de ETL, automação de rotinas e utilização de **SAP** e **CRM** para apoiar diferentes áreas do negócio e garantir a confiabilidade das informações.
 
-Atualmente desenvolvo projetos práticos em **Análise de Dados, Business Intelligence, Automação com Python, Machine Learning e IA aplicada**, consolidando um portfólio voltado a soluções reais de negócio..
+Minha experiência técnica inclui **Power BI, SQL, Excel Avançado, Python, Modelagem de Dados e ETL**, além de conhecimentos em desenvolvimento web que complementam minha visão sobre tecnologia e integração de sistemas.
 
-Acredito no uso estratégico da tecnologia e dos dados como pilares para otimização de processos e geração de valor ao negócio, e busco atuar em projetos orientados a dados nas áreas de Dados, BI, Engenharia ou Ciência de Dados, contribuindo com visão analítica, técnica e estratégica para geração de valor ao negócio.
+Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dados**, **Business Intelligence**, **SQL**, **Python**, **Power BI** e automação, aplicando soluções voltadas a problemas reais de negócio.
 
 ---
 
@@ -49,19 +49,19 @@ Acredito no uso estratégico da tecnologia e dos dados como pilares para otimiza
 
 ---
 
-### 💡 Soft Skills
+### 🤝 Competências
 
-- Pensamento analítico voltado para inteligência de negócio
-- Resolução de problemas complexos e gestão de prazos críticos
-- Organização, disciplina e foco na integridade dos dados
-- Trabalho colaborativo e comunicação clara
-- Adaptabilidade e aprendizado contínuo (Lifelong Learning)
+✔ Pensamento Analítico
+✔ Visão de Negócio
+✔ Resolução de Problemas
+✔ Melhoria Contínua
+✔ Aprendizado Contínuo
 
 ---
 
 ### 📬 Entre em contato
 
-Fico à disposição para conexões profissionais e oportunidades na área de **Dados, BI ou Banco de Dados**.
+Fico à disposição para conexões profissionais e oportunidades nas áreas de **Análise de Dados** e **Business Intelligence**.
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/jéssica-fuentes/)
 - 💻 [Meu Portfólio no GitHub](https://github.com/Jessica-Fuentess)
