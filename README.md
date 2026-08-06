@@ -30,7 +30,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat)
-![Modelagem de Dados](https://img.shields.io/badge/-Modelagem%20de%20Dados-4B8BBE?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B8BBE?style=flat)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM-0078D4?style=flat)
 
@@ -51,7 +51,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ---
 
 ### 📚 Atualmente estudando
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
