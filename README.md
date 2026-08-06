@@ -24,7 +24,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 **📊 Data Analytics & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat)
-![Power Query]
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![DAX]
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,16 +33,6 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![Modelagem de Dados](https://img.shields.io/badge/-Modelagem%20de%20Dados-4B8BBE?style=flat)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![CRM]
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 **💻 Desenvolvimento Web** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
