@@ -20,6 +20,22 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
+## 📂 Projetos em Destaque
+
+📊 Dashboard Comercial em Power BI
+
+📈 Dashboard Logístico
+
+🗄 Consultas SQL
+
+🐍 ETL com Python
+
+🌎 Consumo de API
+
+📦 Automação de Processos
+
+---
+
 ### 🚀 Tecnologias e Ferramentas 💡
 
 **Dados & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
@@ -52,9 +68,13 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ### 🤝 Competências
 
 ✔ Pensamento Analítico
+
 ✔ Visão de Negócio
+
 ✔ Resolução de Problemas
+
 ✔ Melhoria Contínua
+
 ✔ Aprendizado Contínuo
 
 ---
