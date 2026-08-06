@@ -23,7 +23,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ### 🛠 Tech Stack
 
 **📊 Data Analytics & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
