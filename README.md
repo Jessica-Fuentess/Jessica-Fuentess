@@ -38,13 +38,14 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ### 🚀 Tecnologias e Ferramentas 💡
 
-**Dados & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+**📊 Data Analytics & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 
-**Desenvolvimento Web** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**💻 Desenvolvimento Web** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -52,10 +53,10 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Infraestrutura & Versão** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**⚙ Ferramentas** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**Demais Conhecimentos** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+**Demais Conhecimentos** 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Automação com Python](https://img.shields.io/badge/-Automação%20com%20Python-3776AB?style=flat&logo=python&logoColor=white)
