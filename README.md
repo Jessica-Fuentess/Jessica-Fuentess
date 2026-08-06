@@ -22,17 +22,17 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ### 🛠 Tech Stack
 
-**📊 Data Analytics & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+**📊 Data Analytics & Business Intelligence** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B8BBE?style=flat)
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-0078D4?style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B8BBE?style=flat-square)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM-0078D4?style=flat-square)
 
 
 **💻 Desenvolvimento Web** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
