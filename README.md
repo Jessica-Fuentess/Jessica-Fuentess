@@ -56,7 +56,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![AI for Data](https://img.shields.io/badge/IA%20for-Data-412991?style=flat)
+![AI for Data](https://img.shields.io/badge/IA%20for%Data-412991?style=flat)
 ![Integração com APIs](https://img.shields.io/badge/-Integração%20com%20APIs-000000?style=flat)
 
 ---
