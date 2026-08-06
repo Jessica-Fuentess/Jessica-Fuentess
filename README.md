@@ -20,18 +20,13 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
-## 📂 Projetos em Destaque
+### 📂 Projetos em Destaque
 
 📊 Dashboard Comercial em Power BI
-
 📈 Dashboard Logístico
-
 🗄 Consultas SQL
-
 🐍 ETL com Python
-
 🌎 Consumo de API
-
 📦 Automação de Processos
 
 ---
