@@ -35,7 +35,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![CRM](https://img.shields.io/badge/CRM-0078D4?style=flat-square)
 
 
-**💻 Desenvolvimento Web** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+**💻 Development** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -44,19 +44,19 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 
-**⚙ Ferramentas** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**⚙ Tools** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📚 Atualmente estudando
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft)
+### 📚 Currently Learning
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![IA aplicada a Dados](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat)
+![AI for Data](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat)
 ![Integração com APIs](https://img.shields.io/badge/-Integração%20com%20APIs-000000?style=flat)
 
 ---
