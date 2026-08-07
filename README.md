@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 Sou graduada em **Análise e Desenvolvimento de Sistemas** e possuo mais de **15 anos de experiência** nas áreas de Comércio Exterior, Logística e Operações, atuando em empresas multinacionais e em ambientes corporativos com grande volume de informações, processos complexos e foco em resultados.
 
