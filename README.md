@@ -25,7 +25,7 @@ Ao longo da minha carreira, desenvolvi forte capacidade analítica por meio da *
 
 Tenho experiência prática no desenvolvimento de dashboards em Power BI, relatórios gerenciais, indicadores (KPIs), processos de ETL, automação de rotinas e utilização de SAP e CRM para apoiar diferentes áreas do negócio e garantir a confiabilidade das informações.
 
-Minha experiência técnica inclui **Power BI, SQL, Excel Avançado, Python, Modelagem de Dados e ETL**, além de conhecimentos em desenvolvimento web que complementam minha visão sobre tecnologia e integração de sistemas.
+Possuo experiência com **Power BI, SQL, Excel Avançado, Python, Modelagem de Dados e ETL**, além de conhecimentos em desenvolvimento web que complementam minha visão sobre tecnologia e integração de sistemas.
 
 Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dados**, **Business Intelligence**, **SQL**, **Python**, **Power BI** e automação, aplicando soluções voltadas a problemas reais de negócio.
 
@@ -70,8 +70,8 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![AI for Data](https://img.shields.io/badge/AI%20for%20Data-412991?style=flat)
-![Integração com APIs](https://img.shields.io/badge/-Integração%20com%20APIs-000000?style=flat)
+![AI for Data](https://img.shields.io/badge/AI%20for%20DataAnalytics-412991?style=flat)
+![API Integration](https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20com%20APIs-00599C?style=flat&logo=postman&logoColor=white)
 
 ---
 
