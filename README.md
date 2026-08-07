@@ -71,7 +71,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![AI for Data](https://img.shields.io/badge/AI%20for%20DataAnalytics-412991?style=flat)
-![API Integration](https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20com%20APIs-00599C?style=flat&logo=postman&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-00599C?style=flat&logo=postman&logoColor=white)
 
 ---
 
