@@ -19,12 +19,11 @@
 ---
 
 ## 👩‍💻 Sobre mim
-
 Sou graduada em **Análise e Desenvolvimento de Sistemas** e possuo mais de **15 anos de experiência** nas áreas de Comércio Exterior, Logística e Operações, atuando em empresas multinacionais e em ambientes corporativos com grande volume de informações, processos complexos e foco em resultados.
 
 Ao longo da minha carreira, desenvolvi forte capacidade analítica por meio da **extração, tratamento, consolidação e análise de dados**, apoiando decisões estratégicas, melhoria de processos e aumento da eficiência operacional.
 
-Tenho experiência prática no desenvolvimento de **dashboards em Power BI**, relatórios gerenciais, indicadores (KPIs), processos de ETL, automação de rotinas e utilização de **SAP** e **CRM** para apoiar diferentes áreas do negócio e garantir a confiabilidade das informações.
+Tenho experiência prática no desenvolvimento de dashboards em Power BI, relatórios gerenciais, indicadores (KPIs), processos de ETL, automação de rotinas e utilização de SAP e CRM para apoiar diferentes áreas do negócio e garantir a confiabilidade das informações.
 
 Minha experiência técnica inclui **Power BI, SQL, Excel Avançado, Python, Modelagem de Dados e ETL**, além de conhecimentos em desenvolvimento web que complementam minha visão sobre tecnologia e integração de sistemas.
 
@@ -34,7 +33,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ## 🛠 Tech Stack
 
-### **📊 Data Analytics & Business Intelligence**:  
+### **📊 Data Analytics & Business Intelligence**
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
@@ -48,7 +47,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![CRM](https://img.shields.io/badge/CRM-0078D4?style=flat)
 
 
-### **💻 Development**:  
+### **💻 Development**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -78,31 +77,20 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ## 📂 Projetos em Destaque
 
-📊 Dashboard Comercial em Power BI
-
-📈 Dashboard Logístico
-
-🗄 Consultas SQL
-
-🐍 ETL com Python
-
-🌎 Consumo de API
-
-📦 Automação de Processos
+* 📊 **[Dashboard Comercial em Power BI](#)** – *Análise visual de vendas, faturamento e metas operacionais.*
+* 📈 **[Dashboard Logístico](#)** – *Monitoramento de frota, prazos de entrega e custos operacionais.*
+* 🗄 **[Consultas & Análise em SQL](#)** – *Queries complexas, views e tratamento de grandes volumes de dados.*
+* 🐍 **[Pipelines de ETL com Python](#)** – *Automação de rotinas de dados e limpeza com Pandas.*
+* 🌎 **[Consumo & Integração via API](#)** – *Extração e tratamento de dados de fontes externas.*
 
 ---
 
-## 🤝 Competências
+## 🤝 Competências Negociais & Soft Skills
 
-✔ Pensamento Analítico
-
-✔ Visão de Negócio
-
-✔ Resolução de Problemas
-
-✔ Melhoria Contínua
-
-✔ Aprendizado Contínuo
+* 💡 **Pensamento Analítico e Orientado a Dados**
+* 🏢 **Visão de Negócio e Processos Corporativos**
+* 🧩 **Resolução de Problemas Complexos**
+* 🔄 **Melhoria Contínua & Automação**
 
 ---
 
@@ -116,4 +104,6 @@ Fico à disposição para conexões profissionais e oportunidades nas áreas de 
 
 ---
 
-<p align="center">✨ "Transformando dados em insights, e insights em resultados." ✨</p>
+<p align="center">
+  ✨ <i>"Transformando dados em insights, e insights em resultados."</i> ✨
+</p>
