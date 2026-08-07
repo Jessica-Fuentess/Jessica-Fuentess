@@ -64,7 +64,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
-### 📂 Projetos em Destaque
+## 📂 Projetos em Destaque
 
 📊 Dashboard Comercial em Power BI
 
@@ -80,7 +80,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
-### 🤝 Competências
+## 🤝 Competências
 
 ✔ Pensamento Analítico
 
