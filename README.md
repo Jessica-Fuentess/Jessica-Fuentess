@@ -5,6 +5,10 @@
 </h3>
 
 <p align="center">
+📍 São Paulo - SP | 💼 Open to Work
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jéssica-fuentes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fuentesbr@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -29,7 +33,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ## 🛠 Tech Stack
 
-### **📊 Data Analytics & Business Intelligence**
+### **📊 Dados & Business Intelligence**
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
@@ -43,7 +47,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![CRM](https://img.shields.io/badge/CRM-0078D4?style=flat)
 
 
-### **💻 Development**
+### **💻 Desenvolvimento**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -53,7 +57,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 
-### **⚙ Tools**:  
+### **⚙ Ferramentas**:  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -86,7 +90,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
-## 🤝 Competências Negociais & Soft Skills
+## 🤝 Competências
 
 * 💡 **Pensamento Analítico e Orientado a Dados**
 * 🏢 **Visão de Negócio e Processos Corporativos**
