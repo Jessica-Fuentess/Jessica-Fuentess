@@ -27,14 +27,6 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jessica-Fuentess&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 ### **📊 Data Analytics & Business Intelligence**
@@ -100,6 +92,14 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 * 🏢 **Visão de Negócio e Processos Corporativos**
 * 🧩 **Resolução de Problemas Complexos**
 * 🔄 **Melhoria Contínua & Automação**
+
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jessica-Fuentess&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+</p>
 
 ---
 
