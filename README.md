@@ -30,9 +30,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jessica-Fuentess&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jessica-Fuentess&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jessica-Fuentess&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
 
 ---
