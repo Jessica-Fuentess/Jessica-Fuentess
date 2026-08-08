@@ -74,15 +74,15 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ## 📂 Projetos em Destaque
 
 * 📊 **[Dashboard Comercial em Power BI](#)** – *Análise visual de vendas, faturamento e metas operacionais.*
-* > Power BI • DAX • SQL
+> Power BI • DAX • SQL
 * 📈 **[Dashboard Logístico](#)** – *Monitoramento de frota, prazos de entrega e custos operacionais.*
-* > Power BI • Excel • KPIs
+> Power BI • Excel • KPIs
 * 🗄 **[Consultas & Análise em SQL](#)** – *Queries complexas, views e tratamento de grandes volumes de dados.*
-* > SQL Server • MySQL
+> SQL Server • MySQL
 * 🐍 **[Pipelines de ETL com Python](#)** – *Automação de rotinas de dados e limpeza com Pandas.*
-* > Python • Pandas • OpenPyXL
+> Python • Pandas • OpenPyXL
 * 🌎 **[Consumo & Integração via API](#)** – *Extração e tratamento de dados de fontes externas.*
-* > Python • Requests
+> Python • Requests
 
 ---
 
