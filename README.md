@@ -27,6 +27,20 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jessica-Fuentess&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Fuentess&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
+</p>
+
+## 💻 Linguagens mais utilizadas
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Fuentess&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### **📊 Data Analytics & Business Intelligence**
@@ -60,7 +74,7 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
-## 📚 Currently Learning
+## 📚 Estudando atualmente
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
@@ -106,5 +120,5 @@ Fico à disposição para conexões profissionais e oportunidades nas áreas de 
 ---
 
 <p align="center">
-  ✨ <i>"Transformando dados em insights, e insights em resultados."</i> ✨
+  ✨ <i>"Transformando dados em decisões inteligentes e resultados para o negócio."</i> ✨
 </p>
