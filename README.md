@@ -27,16 +27,12 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jessica-Fuentess&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Fuentess&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
-</p>
-
-## 💻 Linguagens mais utilizadas
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Fuentess&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jessica-Fuentess&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Fuentess&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
