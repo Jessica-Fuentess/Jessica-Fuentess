@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fuentesbr@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &nbsp;
-  <a href="https://github.com/Jessica-Fuentess"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"alt="GitHub"/></a>
+
 </p>
 
 ---
