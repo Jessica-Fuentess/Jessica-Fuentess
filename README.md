@@ -4,7 +4,7 @@
   📊 Data Analyst | Business Intelligence | Power BI • SQL • Python • Excel
 </h3>
 
-<p align="center">j
+<p align="center">
 📍 São Paulo - SP | 💼 Open to Work
 </p>
 
