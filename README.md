@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Jéssica Fuentes 👩‍💻📊</h1>
 
 <h3 align="center">
-  📊 Data Analyst | Business Intelligence | Power BI • SQL • Python • Excel jkjkj
+  📊 Data Analyst | Business Intelligence | Power BI • SQL • Python • Excel jk
 </h3>
 
 <p align="center">
