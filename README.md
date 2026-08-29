@@ -15,7 +15,7 @@
 
 ---
 
-## 👩‍💻 Sobre mimmm
+## 👩‍💻 Sobre mimm
 Sou graduada em **Análise e Desenvolvimento de Sistemas** e possuo mais de **15 anos de experiência** nas áreas de Comércio Exterior, Logística e Operações, atuando em empresas multinacionais e em ambientes corporativos com grande volume de informações, processos complexos e foco em resultados.
 
 Ao longo da minha carreira, desenvolvi forte capacidade analítica por meio da **extração, tratamento, consolidação e análise de dados**, apoiando decisões estratégicas, melhoria de processos e aumento da eficiência operacional.
