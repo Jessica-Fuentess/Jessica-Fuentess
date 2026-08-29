@@ -24,7 +24,7 @@ Tenho experiência prática no desenvolvimento de dashboards em Power BI, relat�
 
 Possuo experiência com **Power BI, SQL, Excel Avançado, Python, Modelagem de Dados e ETL**, além de conhecimentos em desenvolvimento web que complementam minha visão sobre tecnologia e integração de sistemas.
 
-Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dados**, **Business Intelligence**, **SQL**, **Python**, **Power BI** e automação, aplicando soluções voltadas a problemas reais de negócio. fd
+Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dados**, **Business Intelligence**, **SQL**, **Python**, **Power BI** e automação, aplicando soluções voltadas a problemas reais de negócio.
 
 ---
 
