@@ -110,7 +110,7 @@ Fico à disposição para conexões profissionais e oportunidades nas áreas de 
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/jéssica-fuentes/)
 - 💻 [Meu Portfólio no GitHub](https://github.com/Jessica-Fuentess)
-- 📩 E-mail: fuentesbr@gmail.com
+- 📩 E-mail: fuentesbr@gmail.com..
 
 ---
 
