@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  📍 São Paulo - SP | 💼 Open to Work wo
+  📍 São Paulo - SP | 💼 Open to Work w
 </p>
 
 <p align="center">
