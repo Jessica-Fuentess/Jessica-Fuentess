@@ -62,12 +62,12 @@ Atualmente utilizo este espaço para compartilhar projetos de **Análise de Dado
 ---
 
 ## 📚 Estudando atualmente
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![AI for Data Analytics](https://img.shields.io/badge/AI%20for%20Data%20Analytics-412991?style=flat)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![AI for Data Analytics](https://img.shields.io/badge/AI%20for%20Data%20Analytics-412991?style=flat)
 ![API Integration](https://img.shields.io/badge/API%20Integration-00599C?style=flat&logo=postman&logoColor=white)
 
 ---
