@@ -72,7 +72,7 @@ flowchart LR
 | [Automação de Cadastro](https://github.com/Jessica-Fuentess/Process_Automation_Python) | Cadastro de produtos automatizado a partir de CSV | Python · Pandas · PyAutoGUI |
 | [Chatbot com IA](https://github.com/Jessica-Fuentess/AI_Chatbot_Python) | Chat com contexto e engenharia de prompts | Python · Streamlit · OpenAI API |
 
-Também tenho projetos front-end (HTML, CSS e JavaScript) nos repositórios Site-Barbearia, Previsao-do-tempo, Site-android e Projeto-Login.
+Também tenho projetos front-end (HTML, CSS e JavaScript): [Site-Barbearia](https://github.com/Jessica-Fuentess/Site-Barbearia), [Previsao-do-tempo](https://github.com/Jessica-Fuentess/Previsao-do-tempo), [Site-android](https://github.com/Jessica-Fuentess/Site-android) e [Projeto-Login](https://github.com/Jessica-Fuentess/Projeto-Login).
 
 ---
 
