@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Jéssica Fuentes 👩‍💻</h1>
 
 <h3 align="center">
-  Analista de Dados (Data Analyst) | Business Intelligence | SQL · Power BI · Python · Databricksssssss
+  Analista de Dados (Data Analyst) | Business Intelligence | SQL · Power BI · Python · Databrickssssss
 </h3>
 
 <p align="center">
