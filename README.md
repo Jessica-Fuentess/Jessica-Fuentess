@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 São Paulo (híbrido ou remoto) &nbsp;|&nbsp; Aberta a vagas de Analista de Dados, Analista de BI e Engenheira de Dados
+  📍 São Paulo &nbsp;|&nbsp; Aberta a vagas de Analista de Dados, Analista de BI e Engenheira de Dados
 </p>
 
 <p align="center">
