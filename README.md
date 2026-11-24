@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Analista de Dados · Business Intelligence</b><br>
-  SQL · Power BI · Excel · Python · IA aplicada a dados · Databricksss
+  SQL · Power BI · Excel · Python · IA aplicada a dados · Databricks
 </p>
 
 <p align="center">
