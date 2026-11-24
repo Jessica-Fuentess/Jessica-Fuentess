@@ -183,4 +183,4 @@ Também tenho projetos front-end (HTML, CSS e JavaScript): [Site-Barbearia](http
 
 Procuro vagas de **Analista de Dados** ou **Analista de BI**.
 
-[LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/) · [fuentesbr@gmail.com](mailto:fuentesbr@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jessica-fuentess/) · [fuentesbr@gmail.com](mailto:fuentesbr@gmail.com)
