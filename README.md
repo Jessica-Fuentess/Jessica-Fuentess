@@ -22,7 +22,7 @@ Sou Analista de Dados e BI. Transformo dados operacionais em indicadores, dashbo
 
 Passei 18 anos em Comércio Exterior, Logística e Operações em multinacionais, os últimos como Analista de Comex Sênior. Foi lá que comecei a resolver problemas com dados: dashboard de free time de contêiner, controle de vencimentos e custo de frete por rota e transportadora. Por isso começo pela pergunta de negócio, não pela ferramenta.
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e uso no dia a dia **SQL, Power BI (DAX e Power Query), Excel e Python**. Como diferencial, uso **IA aplicada a dados** (LLM para ler texto livre, agentes que respondem perguntas sobre os dados e desenvolvimento assistido com Claude Code) e construo meus próprios pipelines no **Databricks**.
+Sou formada em **Análise e Desenvolvimento de Sistemas** e uso no dia a dia **SQL, Power BI, Excel e Python**: modelagem em estrela, publicação no Power BI Service com RLS e automações com **Power Automate, Power Apps e VBA**. Uso **IA generativa** (Copilot e Claude) para acelerar análises e, como diferencial, aplico **IA a dados** e construo meus próprios pipelines no **Databricks**.
 
 ---
 
@@ -30,8 +30,9 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e uso no dia a dia **S
 
 | Resultado | Como |
 |---|---|
-| **-50%** nos dias médios de permanência de contêineres no terminal | Dashboard em Power BI de free time, custos e prazos |
+| **-50%** nos dias médios de permanência de contêineres no terminal | Dashboard em Power BI de free time, custos e prazos de **~100 processos de importação/mês** |
 | **~R$ 250 mil/ano** em custos evitados | Controle de vencimentos em Excel com alertas |
+| **~10 bases** integradas em painéis usados por **mais de 50 pessoas** | Modelos em estrela via SQL e Power Query, publicados no Power BI Service com gateway e RLS |
 | **3 a 5 dias** a menos no ciclo médio de importação | Acompanhamento automatizado, da chegada à nacionalização |
 | **-20%** no frete nacional | Análise de custos por rota e transportadora (SQL, CRM e Excel) |
 
@@ -80,6 +81,7 @@ Uma empresa com 60 projetos e R$ 305 mi de carteira, onde cada gerente usa uma f
 ## 🤖 IA no meu trabalho com dados
 
 **Na análise**
+- IA generativa (Microsoft Copilot e Claude) no dia a dia para acelerar análises, fórmulas e automações.
 - LLM classificando e extraindo campos de texto livre direto em SQL, com controle de custo: no Farol, a IA processa só os 163 status que precisavam dela. O resto é resolvido por regra e palavra-chave.
 - Agentes de perguntas em linguagem natural (Genie) sobre métricas governadas. Antes de liberar, testo o agente contra perguntas com resposta conhecida: 20 de 20 no Farol.
 - Chatbot com histórico de contexto e engenharia de prompt (Python, Streamlit e OpenAI API).
@@ -129,8 +131,16 @@ Também tenho projetos front-end (HTML, CSS e JavaScript): [Site-Barbearia](http
 ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
+**Automação**
+
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat)
+
 **IA aplicada**
 
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=flat)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
 ![AI Functions](https://img.shields.io/badge/Databricks%20AI%20Functions-FF3621?style=flat)
 ![Genie](https://img.shields.io/badge/Genie%20(agente%20de%20dados)-1B3139?style=flat)
